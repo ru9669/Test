@@ -9,7 +9,6 @@ class T10P20 {
 		
 	}
 	
-	public static boolean noDevuelveNada() {
-		return false;
+	public static void noDevuelveNada() {
 	}
 }
